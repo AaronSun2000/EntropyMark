@@ -6,6 +6,14 @@ This is the official implementation of our paper ["EntropyMark: Towards More Har
 
 Please cite our paper in your publication if it helps your research:
 
+@inproceedings{sun2025entropymark,
+  title={EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection},
+  author={Sun, Ming and Wang, Rui and Zhu, Zixuan and Jing, Lihua and Guo, Yuanfang},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={30692--30701},
+  year={2025}
+}
+
 ## Main Pipeline
 
 ![pipeline](./pipeline/Method.png "Method")
