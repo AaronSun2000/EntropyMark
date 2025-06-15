@@ -1,11 +1,12 @@
 # [CVPR 2025] EntropyMark
 
-This is the official implementation of our paper ["EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection"](), CVPR 2025.
+This is the official implementation of our paper ["EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection"](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_EntropyMark_Towards_More_Harmless_Backdoor_Watermark_via_Entropy-based_Constraint_for_CVPR_2025_paper.html), CVPR 2025.
 
 ## Citation
 
 Please cite our paper in your publication if it helps your research:
 
+```
 @inproceedings{sun2025entropymark,
   title={EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection},
   author={Sun, Ming and Wang, Rui and Zhu, Zixuan and Jing, Lihua and Guo, Yuanfang},
@@ -13,6 +14,7 @@ Please cite our paper in your publication if it helps your research:
   pages={30692--30701},
   year={2025}
 }
+```
 
 ## Main Pipeline
 
