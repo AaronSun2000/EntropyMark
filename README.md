@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 The original datasets for CIFAR-10, ImageNet-12, and MNIST are available on [Google Drive](https://drive.google.com/drive/folders/1pybwzXsLifPQOYQCnMeECtvVDk9_qiIm?usp=sharing).
 
-### results
+### Results
 
 Our experimental results and trained models for CIFAR-10, ImageNet-12 and MNSIT are available on [Google Drive](https://drive.google.com/drive/folders/1FZQk_x94caNeCV3PDAE8dcNhc8P_ocDI?usp=sharing).
 
